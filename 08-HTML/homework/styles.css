@@ -1,0 +1,17 @@
+h1{
+    color : lightsalmon;
+}
+img {
+    width : 400px;
+}
+#thirdDiv {
+    width : 500px;
+    height: 750px;
+    background-color: blanchedalmond;
+    padding: 50px;
+    border: 7px dotted peru
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
